@@ -1,0 +1,12 @@
+.googleIcon{
+    background-image: url("../../logos/google.png");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: 1.8rem 1.8rem;
+    background-position: left center;
+}
+.text{
+    text-decoration: underline;
+    cursor: pointer;
+    color:blue;
+}

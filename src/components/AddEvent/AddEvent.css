@@ -1,0 +1,10 @@
+.inputField{
+    height: 200%;
+}
+.UploadIcon{
+    background-image: url("../../logos/cloud-upload-outline\ 1.png");
+    background-repeat: no-repeat;
+    background-origin: content-box;
+    background-size: 1.5rem 1.5rem;
+    background-position: right center;
+ }
